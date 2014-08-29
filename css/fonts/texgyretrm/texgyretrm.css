@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'texgyretermesbold';
+    src: url('texgyretermes-bold.eot');
+    src: url('texgyretermes-bold.eot?#iefix') format('embedded-opentype'),
+         url('texgyretermes-bold.woff') format('woff'),
+         url('texgyretermes-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'texgyretermesbold_italic';
+    src: url('texgyretermes-bolditalic.eot');
+    src: url('texgyretermes-bolditalic.eot?#iefix') format('embedded-opentype'),
+         url('texgyretermes-bolditalic.woff') format('woff'),
+         url('texgyretermes-bolditalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'texgyretermesitalic';
+    src: url('texgyretermes-italic.eot');
+    src: url('texgyretermes-italic.eot?#iefix') format('embedded-opentype'),
+         url('texgyretermes-italic.woff') format('woff'),
+         url('texgyretermes-italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'texgyretermesregular';
+    src: url('texgyretermes-regular.eot');
+    src: url('texgyretermes-regular.eot?#iefix') format('embedded-opentype'),
+         url('texgyretermes-regular.woff') format('woff'),
+         url('texgyretermes-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
